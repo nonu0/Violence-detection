@@ -1,0 +1,6 @@
+artifact_location: file:///kaggle/working/mlruns/962122756582453417
+creation_time: 1749226845691
+experiment_id: '962122756582453417'
+last_update_time: 1749226845691
+lifecycle_stage: active
+name: MobileNetLSTM Video Classification
